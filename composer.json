@@ -1,0 +1,14 @@
+{
+	"name": "skyzyx/service-listing",
+	"description": "A JSON list of services.",
+	"type": "library",
+	"version": "1.0",
+	"keywords": ["license"],
+	"license": "Public Domain",
+	"authors": [
+		{
+			"name": "Contributors",
+			"homepage": "http://github.com/skyzyx/service-listing/contributors"
+		}
+	]
+}

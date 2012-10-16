@@ -1,0 +1,97 @@
+{
+    "adn": {
+        "long": "App.net",
+        "short": "adn",
+        "uri": "https:\/\/alpha.app.net\/{user}"
+    },
+    "bitbucket": {
+        "long": "BitBucket",
+        "short": "bitbucket",
+        "uri": "https:\/\/bitbucket.org\/{user}"
+    },
+    "codeplex": {
+        "long": "CodePlex",
+        "short": "codeplex",
+        "uri": "http:\/\/www.codeplex.com\/site\/users\/view\/{user}"
+    },
+    "facebook": {
+        "long": "Facebook",
+        "short": "facebook",
+        "uri": "http:\/\/facebook.com\/{user}"
+    },
+    "fb": {
+        "long": "Facebook",
+        "short": "fb",
+        "uri": "http:\/\/facebook.com\/{user}"
+    },
+    "flickr": {
+        "long": "Flickr",
+        "short": "flickr",
+        "uri": "http:\/\/flickr.com\/people\/{user}"
+    },
+    "g+": {
+        "long": "Google+",
+        "short": "g+",
+        "uri": "http:\/\/profile.google.com\/{user}"
+    },
+    "google": {
+        "long": "Google+",
+        "short": "google",
+        "uri": "http:\/\/profile.google.com\/{user}"
+    },
+    "github": {
+        "long": "GitHub",
+        "short": "github",
+        "uri": "http:\/\/github.com\/{user}"
+    },
+    "gravatar": {
+        "long": "Gravatar",
+        "short": "gravatar",
+        "uri": "http:\/\/en.gravatar.com\/avatar\/{user}?s=200&r=any"
+    },
+    "lastfm": {
+        "long": "Last.fm",
+        "short": "lastfm",
+        "uri": "http:\/\/www.last.fm\/user\/{user}"
+    },
+    "playstation": {
+        "long": "Playstation Network",
+        "short": "playstation",
+        "uri": "http:\/\/us.playstation.com\/playstation\/psn\/visit\/profiles\/{user}"
+    },
+    "ps3": {
+        "long": "Playstation Network",
+        "short": "ps3",
+        "uri": "http:\/\/us.playstation.com\/playstation\/psn\/visit\/profiles\/{user}"
+    },
+    "psn": {
+        "long": "Playstation Network",
+        "short": "psn",
+        "uri": "http:\/\/us.playstation.com\/playstation\/psn\/visit\/profiles\/{user}"
+    },
+    "rdio": {
+        "long": "Rdio",
+        "short": "rdio",
+        "uri": "http:\/\/www.rdio.com\/people\/{user}\/"
+    },
+    "twitter": {
+        "long": "Twitter",
+        "short": "twitter",
+        "uri": "http:\/\/twitter.com\/{user}"
+    },
+    "xbox": {
+        "long": "Xbox Live",
+        "short": "xbox",
+        "uri": "https:\/\/live.xbox.com\/en-US\/Profile?gamertag={user}"
+    },
+    "youtube": {
+        "long": "YouTube",
+        "short": "youtube",
+        "uri": "http:\/\/youtube.com\/{user}"
+    },
+    "yt": {
+        "long": "YouTube",
+        "short": "yt",
+        "uri": "http:\/\/youtube.com\/{user}"
+    }
+}
