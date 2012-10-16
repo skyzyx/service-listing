@@ -63,7 +63,7 @@ return array(
     ),
     array(
         'long' => 'Twitter',
-        'short' => array('@', 'twitter'),
+        'short' => array('', 'twitter'),
         'uri' => 'http://twitter.com/{user}'
     ),
     array(
