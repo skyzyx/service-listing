@@ -74,6 +74,11 @@
         "short": "rdio",
         "uri": "http:\/\/www.rdio.com\/people\/{user}\/"
     },
+    "@": {
+        "long": "Twitter",
+        "short": "@",
+        "uri": "http:\/\/twitter.com\/{user}"
+    },
     "twitter": {
         "long": "Twitter",
         "short": "twitter",
